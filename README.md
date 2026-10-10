@@ -1,6 +1,6 @@
-# On Deck Rosters site
+# OnDeck Rosters site
 
-Static marketing site for the On Deck Rosters iOS app, served via GitHub
+Static marketing site for the OnDeck Rosters iOS app, served via GitHub
 Pages at `ondeckrosters.app`.
 
 - `index.html` - landing page
